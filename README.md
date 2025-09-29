@@ -31,7 +31,7 @@ Moving forward, I plan to build many more such projects to strengthen my underst
 - **Deployment:** Render (for backend)  
 
 ## 📸 Screenshot  
-(Add your screenshot here, e.g. `![App Screenshot](./screenshot.png)`)
+<img src="./simple-weather-app.gif" width="800" height="400" />
 
 ## 🔗 Live Demo  
 - Frontend: *[https://weatherapp-4ozw.onrender.com/]*
