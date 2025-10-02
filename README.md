@@ -1,7 +1,8 @@
 # ⛅ Simple Weather App
 
 A weather checking app where the user can enter a location and get current weather details.  
-It fetches live weather data and displays temperature, humidity, and conditions on the screen.  
+It fetches live weather data and displays temperature, humidity, and conditions on the screen.
+### 🔗 [Live Demo](https://weatherapp-4ozw.onrender.com/)
 
 This project was my **first time securely deploying an API key** using a backend server.  
 I faced many challenges while setting it up, but I learned a lot about **APIs, JSON responses, async JavaScript, backend servers, and environment variables**.  
